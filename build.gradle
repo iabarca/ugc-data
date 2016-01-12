@@ -2,14 +2,30 @@ apply plugin: 'java'
 apply plugin: 'application'
 apply plugin: 'eclipse'
 
-mainClassName = 'ui.LwrtGUI'
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+ 
+defaultTasks = ['clean', 'jar']
+
+mainClassName = 'com.github.iabarca.ui.Main'
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
+    compile 'joda-time:joda-time:2.3'
+    compile 'com.google.guava:guava:16.0'
     compile 'com.google.code.gson:gson:2.2.4'
+    compile 'net.sf.jopt-simple:jopt-simple:4.6'
+    compile 'org.swinglabs.swingx:swingx-core:1.6.5-1'
+    compile 'org.swinglabs.swingx:swingx-autocomplete:1.6.5-1'
+    compile 'org.swinglabs.swingx:swingx-common:1.6.5-1'
+    compile 'org.swinglabs.swingx:swingx-action:1.6.5-1'
+    compile 'org.swinglabs.swingx:swingx-plaf:1.6.5-1'
+    compile 'org.swinglabs.swingx:swingx-graphics:1.6.5-1'
+    compile 'org.swinglabs.swingx:swingx-painters:1.6.5-1'
+    
     testCompile 'junit:junit:4.10'
 }
 
@@ -18,9 +34,7 @@ test {
 }
 
 jar {
-    manifest {        
-        attributes (
-            'Main-Class': mainClassName
-        )
-    }
+    destinationDir = null
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    manifest { attributes ('Main-Class': mainClassName) }
 }

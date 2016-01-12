@@ -1,0 +1,133 @@
+MatchId;HomeTeam;HomeTeamId;VisitTeam;VisitTeamId;MapName;ScheduleDate;StatsId;Map;Rounds;Duration;DamageRED;FragsRED;DamageBLU;FragsBLU;ScoreRED;ScoreBLU;ScoresBLU;RoundTimes
+39649;Bubberducky;7073;The House Hippos;9389;koth_coalplant_b7;2014-02-17 00:00:00;157176;koth_coalplant_b7;3;1135;21324;65;21824;69;2;1;0|1|0;347|335|453
+39649;Bubberducky;7073;The House Hippos;9389;koth_coalplant_b7;2014-02-17 00:00:00;157062;koth_coalplant_b7;5;1594;45743;122;55394;186;2;3;1|0|0|1|1;315|420|377|249|233
+39650;4L;3783;Drunken Bombers;7815;koth_coalplant_b7;2014-02-17 00:00:00;157198;koth_coalplant_b7;2;760;23911;86;27013;108;1;1;0|1;476|284
+39650;4L;3783;Drunken Bombers;7815;koth_coalplant_b7;2014-02-17 00:00:00;157114;koth_coalplant_b7;3;1216;39968;151;38952;129;3;0;0|0|0;411|399|406
+39651;Tilt;5289;The Noble Gases;9468;koth_coalplant_b7;2014-02-17 00:00:00;157163;koth_coalplant_b7;1;260;11341;46;5657;14;1;0;0;260
+39651;Tilt;5289;The Noble Gases;9468;koth_coalplant_b7;2014-02-17 00:00:00;157060;koth_coalplant_b7;3;936;20591;42;30304;116;0;3;1|1|1;223|299|414
+39654;Mega Mayonnaise;7243;Delirium;7720;koth_coalplant_b7;2014-02-17 00:00:00;157168;koth_coalplant_b7;1;299;7760;28;10995;45;0;1;1;299
+39654;Mega Mayonnaise;7243;Delirium;7720;koth_coalplant_b7;2014-02-17 00:00:00;157088;koth_coalplant_b7;3;1338;39350;148;33296;119;3;0;0|0|0;401|304|633
+39663;Mighty Morphing Flower Arrangers;8846;The Average Men;3455;koth_coalplant_b7;2014-02-17 00:00:00;157052;koth_coalplant_b7;1;315;8612;26;11441;46;0;1;1;315
+39663;Mighty Morphing Flower Arrangers;8846;The Average Men;3455;koth_coalplant_b7;2014-02-17 00:00:00;157013;koth_coalplant_b7;3;955;36252;155;26654;71;3;0;0|0|0;292|335|328
+39664;Atrocious Ending;8910;FITE IRL FGT;9231;koth_coalplant_b7;2014-02-17 00:00:00;157036;koth_coalplant_b7;3;988;33937;126;33048;114;2;1;0|0|1;320|353|315
+39664;Atrocious Ending;8910;FITE IRL FGT;9231;koth_coalplant_b7;2014-02-17 00:00:00;156998;koth_coalplant_b7;3;1058;34052;113;33036;126;0;3;1|1|1;362|395|301
+39666;Math Camp;9407;Blood bath and beyond;8128;koth_coalplant_b7;2014-02-17 00:00:00;156947;koth_coalplant_b7;4;1283;38663;115;47928;173;0;4;1|1|1|1;368|267|278|370
+39667;Dogechester United;9541;Target-Acquired Gaming Clan;8764;koth_coalplant_b7;2014-02-17 00:00:00;157236;koth_coalplant_b7;2;647;22803;88;22441;82;1;1;0|1;304|343
+39667;Dogechester United;9541;Target-Acquired Gaming Clan;8764;koth_coalplant_b7;2014-02-17 00:00:00;157173;koth_coalplant_b7;4;1879;54497;219;51964;184;3;1;0|1|0|0;345|405|402|727
+39668;Chance Time Winners;10368;Team Never Sober;6448;koth_coalplant_b7;2014-02-17 00:00:00;157058;koth_coalplant_b7;1;302;10864;46;8798;25;1;0;0;302
+39668;Chance Time Winners;10368;Team Never Sober;6448;koth_coalplant_b7;2014-02-17 00:00:00;157004;koth_coalplant_b7;4;1444;45464;153;51593;202;1;3;1|1|0|1;329|380|408|327
+39674;Team Celebrity;8044;Lunar Eclipse Squad;7820;koth_coalplant_b7;2014-02-17 00:00:00;157178;koth_coalplant_b7;2;707;24924;85;26115;104;1;1;0|1;396|311
+39674;Team Celebrity;8044;Lunar Eclipse Squad;7820;koth_coalplant_b7;2014-02-17 00:00:00;157109;koth_coalplant_b7;3;1033;36740;132;33610;109;3;0;0|0|0;383|332|318
+39676;Trigger Company;8889;Kobe Kush;8963;koth_coalplant_b7;2014-02-17 00:00:00;157078;koth_coalplant_b7;1;241;7152;15;10004;40;0;1;1;241
+39676;Trigger Company;8889;Kobe Kush;8963;koth_coalplant_b7;2014-02-17 00:00:00;157021;koth_coalplant_b7;3;1086;35321;108;33545;109;3;0;0|0|0;383|373|330
+39679;gib Rex;8219;No Pants Allowed;8904;koth_coalplant_b7;2014-02-17 00:00:00;157162;koth_coalplant_b7;2;609;9922;29;13013;59;0;2;1|1;389|220
+39679;gib Rex;8219;No Pants Allowed;8904;koth_coalplant_b7;2014-02-17 00:00:00;157080;koth_coalplant_b7;3;1211;39078;125;47970;184;0;3;1|1|1;379|418|414
+39680;Wholesome Christian Family;8887;Smudged Pumas;9112;koth_coalplant_b7;2014-02-17 00:00:00;157213;koth_coalplant_b7;1;348;15456;56;9455;33;1;0;0;348
+39680;Wholesome Christian Family;8887;Smudged Pumas;9112;koth_coalplant_b7;2014-02-17 00:00:00;157117;koth_coalplant_b7;3;925;23572;78;34534;136;0;3;1|1|1;229|404|292
+39683;Gentlemen's Club;9293;The Electric Temptations;5527;koth_coalplant_b7;2014-02-17 00:00:00;157234;koth_coalplant_b7;1;298;10837;29;12393;41;0;1;1;298
+39683;Gentlemen's Club;9293;The Electric Temptations;5527;koth_coalplant_b7;2014-02-17 00:00:00;157204;koth_coalplant_b7;3;1001;35568;100;39357;125;0;3;1|1|1;274|404|323
+39683;Gentlemen's Club;9293;The Electric Temptations;5527;koth_coalplant_b7;2014-02-17 00:00:00;157146;koth_coalplant_b7;3;976;39637;145;35115;80;3;0;0|0|0;229|350|397
+39686;Dead Ringer Storage;8004;Unbelievably Brave Sweethearts;3116;koth_coalplant_b7;2014-02-17 00:00:00;159647;koth_coalplant_b7;1;600;10752;39;8887;23;1;0;0;600
+39687;Blunderful;3357;MURDERFORCE9000;3362;koth_coalplant_b7;2014-02-17 00:00:00;157148;koth_coalplant_b7;1;395;15067;42;14954;42;1;0;0;395
+39687;Blunderful;3357;MURDERFORCE9000;3362;koth_coalplant_b7;2014-02-17 00:00:00;157077;koth_coalplant_b7;3;1000;34470;110;34106;96;3;0;0|0|0;318|275|407
+39689;Universal $ Assocation;9134;Cuties;5064;koth_coalplant_b7;2014-02-17 00:00:00;157214;koth_coalplant_b7;1;365;13095;38;12914;32;1;0;0;365
+39689;Universal $ Assocation;9134;Cuties;5064;koth_coalplant_b7;2014-02-17 00:00:00;157141;koth_coalplant_b7;4;1374;46317;139;48347;138;1;3;1|0|1|1;293|405|349|327
+39690;Roll the Chat;3924;Murphy and ya bois;8901;koth_coalplant_b7;2014-02-17 00:00:00;157125;koth_coalplant_b7;1;218;4422;8;7683;33;0;1;1;218
+39690;Roll the Chat;3924;Murphy and ya bois;8901;koth_coalplant_b7;2014-02-17 00:00:00;157089;koth_coalplant_b7;3;673;25041;115;14921;27;3;0;0|0|0;217|236|220
+39691;SPACEBEARS;9091;Scifi Channel Originals;7818;koth_coalplant_b7;2014-02-17 00:00:00;157100;koth_coalplant_b7;4;1189;45020;160;38514;116;3;1;0|0|1|0;283|227|326|353
+39694;The Coloured Pylons;6890;Secondhand Mercenaries;5049;koth_coalplant_b7;2014-02-17 00:00:00;157167;koth_coalplant_b7;4;1408;56215;208;42258;133;3;1;0|0|1|0;352|391|432|233
+39694;The Coloured Pylons;6890;Secondhand Mercenaries;5049;koth_coalplant_b7;2014-02-17 00:00:00;157110;koth_coalplant_b7;1;354;14618;45;10901;30;1;0;0;354
+39695;Catgirl Café (with Purrfect Portions);8943;Poon Platoon;8848;koth_coalplant_b7;2014-02-17 00:00:00;157091;koth_coalplant_b7;3;1108;31482;89;40258;152;0;3;1|1|1;383|362|363
+39697;Praise The Sun;10285;GOT GO U DJINN WAIFUS;5623;koth_coalplant_b7;2014-02-17 00:00:00;157193;koth_coalplant_b7;1;357;8505;29;11880;45;0;1;1;357
+39697;Praise The Sun;10285;GOT GO U DJINN WAIFUS;5623;koth_coalplant_b7;2014-02-17 00:00:00;157126;koth_coalplant_b7;3;1025;32837;134;29703;99;3;0;0|0|0;328|350|347
+39698;Nice Weather for Ducks;7942;Fast Company HL;7257;koth_coalplant_b7;2014-02-17 00:00:00;157206;koth_coalplant_b7;1;384;12712;38;12603;47;0;1;1;384
+39700;Disingenuous Assertions;7797;Minh Advantage II;10127;koth_coalplant_b7;2014-02-17 00:00:00;157140;koth_coalplant_b7;3;1243;38797;144;38973;131;1;2;1|1|0;379|426|438
+39700;Disingenuous Assertions;7797;Minh Advantage II;10127;koth_coalplant_b7;2014-02-17 00:00:00;157063;koth_coalplant_b7;3;1102;30984;108;36887;149;0;3;1|1|1;375|407|320
+39701;The Unusual Suspects;9485;PENCILS;7921;koth_coalplant_b7;2014-02-17 00:00:00;157215;koth_coalplant_b7;2;680;21614;57;22716;81;1;1;0|1;325|355
+39701;The Unusual Suspects;9485;PENCILS;7921;koth_coalplant_b7;2014-02-17 00:00:00;157129;koth_coalplant_b7;3;1311;42638;150;35765;93;3;0;0|0|0;401|419|491
+39707;0.2%;9493;No Kids Here! 9ers;9225;koth_coalplant_b7;2014-02-17 00:00:00;156668;koth_coalplant_b7;2;786;24479;78;26197;82;0;2;1|1;349|437
+39707;0.2%;9493;No Kids Here! 9ers;9225;koth_coalplant_b7;2014-02-17 00:00:00;156659;koth_coalplant_b7;5;1876;64179;192;64575;235;2;3;1|1|0|0|1;271|441|405|349|410
+39710;Tactical and Equipped Killers;8967;swag swag yolo;9232;koth_coalplant_b7;2014-02-17 00:00:00;156667;koth_coalplant_b7;1;412;14131;54;14627;58;0;1;1;412
+39710;Tactical and Equipped Killers;8967;swag swag yolo;9232;koth_coalplant_b7;2014-02-17 00:00:00;156660;koth_coalplant_b7;5;1925;56689;194;59107;222;2;3;1|0|0|1|1;403|452|291|408|371
+39712;Roostlander;6966;Team Interrobang;6038;koth_coalplant_b7;2014-02-17 00:00:00;157132;koth_coalplant_b7;1;430;14196;59;15941;66;0;1;1;430
+39712;Roostlander;6966;Team Interrobang;6038;koth_coalplant_b7;2014-02-17 00:00:00;157054;koth_coalplant_b7;4;1358;45758;187;47875;169;1;3;1|1|0|1;365|270|410|313
+39714;Royal Flush;9501;WulfPack;8323;koth_coalplant_b7;2014-02-17 00:00:00;156661;koth_coalplant_b7;3;915;17307;63;16154;56;3;0;0|0|0;413|220|282
+39714;Royal Flush;9501;WulfPack;8323;koth_coalplant_b7;2014-02-17 00:00:00;156654;koth_coalplant_b7;3;1216;36326;118;43643;146;0;3;1|1|1;348|426|442
+39722;Simply Beige;10275;Pubstrat;9001;koth_coalplant_b7;2014-02-17 00:00:00;156663;koth_coalplant_b7;1;278;6124;22;11544;41;0;1;1;278
+39722;Simply Beige;10275;Pubstrat;9001;koth_coalplant_b7;2014-02-17 00:00:00;156657;koth_coalplant_b7;3;1207;27870;79;35360;125;0;3;1|1|1;579|382|246
+39723;High Kings;8844;HangLow;10091;koth_coalplant_b7;2014-02-17 00:00:00;157105;koth_coalplant_b7;3;1694;29313;97;28124;105;0;3;1|1|1;1181|263|250
+39726;Having A Time;9369;T.U.N.A | Tough Unified North Americans;10063;koth_coalplant_b7;2014-02-17 00:00:00;157223;koth_coalplant_b7;1;317;10194;36;7326;24;1;0;0;317
+39726;Having A Time;9369;T.U.N.A | Tough Unified North Americans;10063;koth_coalplant_b7;2014-02-17 00:00:00;157189;koth_coalplant_b7;3;742;13684;46;25198;92;0;3;1|1|1;232|271|239
+39732;beached as;10367;Spicy Wizards;8998;koth_coalplant_b7;2014-02-17 00:00:00;160595;koth_coalplant_b7;1;413;13725;54;15108;59;0;1;1;413
+39732;beached as;10367;Spicy Wizards;8998;koth_coalplant_b7;2014-02-17 00:00:00;160588;koth_coalplant_b7;5;1750;59319;204;67131;225;2;3;1|0|1|0|1;267|343|352|372|416
+39753;illusion of Murder;9726;Snappers&Jellybeans;9251;koth_coalplant_b7;2014-02-17 00:00:00;156930;koth_coalplant_b7;2;489;9629;39;8387;26;2;0;0|0;263|226
+39753;illusion of Murder;9726;Snappers&Jellybeans;9251;koth_coalplant_b7;2014-02-17 00:00:00;156908;koth_coalplant_b7;4;1369;44963;150;48482;166;1;3;1|1|0|1;260|317|467|325
+39754;Hail to the Knights;5257;Restaurante De Wesker;5154;koth_coalplant_b7;2014-02-17 00:00:00;156955;koth_coalplant_b7;1;302;11234;42;8978;25;1;0;0;302
+39754;Hail to the Knights;5257;Restaurante De Wesker;5154;koth_coalplant_b7;2014-02-17 00:00:00;156909;koth_coalplant_b7;4;2101;55071;186;58328;193;1;3;0|1|1|1;449|837|405|410
+39806;Roadside Brewery;9133;FinGin Ja Pojat;6603;koth_coalplant_b7;2014-02-17 00:00:00;159464;koth_coalplant_b7;2;797;15068;55;15382;47;1;1;0|1;393|404
+39806;Roadside Brewery;9133;FinGin Ja Pojat;6603;koth_coalplant_b7;2014-02-17 00:00:00;159462;koth_coalplant_b7;3;894;33477;126;25673;69;3;0;0|0|0;297|309|288
+39815;The Bears;9590;Harbingers of Aphrodite	;8857;koth_coalplant_b7;2014-02-17 00:00:00;156776;koth_coalplant_b7;3;1198;42766;172;38323;118;3;0;0|0|0;444|372|382
+39830;Smokin' Trees and Strokin 3's;9398;Bumblesquad;8835;koth_coalplant_b7;2014-02-17 00:00:00;157112;koth_coalplant_b7;1;410;13913;47;14699;50;0;1;1;410
+39830;Smokin' Trees and Strokin 3's;9398;Bumblesquad;8835;koth_coalplant_b7;2014-02-17 00:00:00;157039;koth_coalplant_b7;3;1087;37075;117;40024;133;0;3;1|1|1;404|345|338
+39831;Tree Forest 2;9408;brave;9130;koth_coalplant_b7;2014-02-17 00:00:00;157202;koth_coalplant_b7;2;827;31794;92;30693;110;0;2;1|1;443|384
+39831;Tree Forest 2;9408;brave;9130;koth_coalplant_b7;2014-02-17 00:00:00;157076;koth_coalplant_b7;5;1752;65310;211;61405;203;2;3;1|0|0|1|1;404|307|269|415|357
+39837;Imperium Highlander;8985;Crystal Kingdom Royal Highlander Team;6871;koth_coalplant_b7;2014-02-17 00:00:00;157172;koth_coalplant_b7;2;1319;11665;34;13823;40;2;0;0|0;499|820
+39837;Imperium Highlander;8985;Crystal Kingdom Royal Highlander Team;6871;koth_coalplant_b7;2014-02-17 00:00:00;157049;koth_coalplant_b7;5;1799;59111;193;61637;202;3;2;1|0|0|1|0;370|392|334|333|370
+39838;Degree Zero;6741;Med Took Zero!;8431;koth_coalplant_b7;2014-02-17 00:00:00;157150;koth_coalplant_b7;2;690;13416;44;12532;41;0;2;1|1;363|327
+39838;Degree Zero;6741;Med Took Zero!;8431;koth_coalplant_b7;2014-02-17 00:00:00;157048;koth_coalplant_b7;4;1523;43923;133;45164;158;1;3;0|1|1|1;409|370|217|527
+39840;Turdlords of the 5th Dimension;6843;Dedoris;5828;koth_coalplant_b7;2014-02-17 00:00:00;157183;koth_coalplant_b7;1;229;5995;17;9780;37;0;1;1;229
+39840;Turdlords of the 5th Dimension;6843;Dedoris;5828;koth_coalplant_b7;2014-02-17 00:00:00;157096;koth_coalplant_b7;4;1163;46206;149;38312;111;3;1;1|0|0|0;308|304|296|255
+39843;Team Willy;6175;The White Knights ;9379;koth_coalplant_b7;2014-02-17 00:00:00;157149;koth_coalplant_b7;1;349;12545;44;9190;27;1;0;0;349
+39843;Team Willy;6175;The White Knights ;9379;koth_coalplant_b7;2014-02-17 00:00:00;157082;koth_coalplant_b7;3;1003;35164;129;27828;91;3;0;0|0|0;392|271|340
+39844;The Five Knuckle Truffle Punch;6605;Grammer Natzi's;5600;koth_coalplant_b7;2014-02-17 00:00:00;157124;koth_coalplant_b7;3;1230;47225;181;44624;156;2;1;0|0|1;394|407|429
+39845;The Super Frients!;5190;There's Something About Her;7571;koth_coalplant_b7;2014-02-17 00:00:00;157209;koth_coalplant_b7;1;335;9766;29;12542;53;0;1;1;335
+39845;The Super Frients!;5190;There's Something About Her;7571;koth_coalplant_b7;2014-02-17 00:00:00;157106;koth_coalplant_b7;4;1329;43524;141;43859;139;1;3;1|0|1|1;328|240|368|393
+39847;Meme Team;8969;Time To Kill;5906;koth_coalplant_b7;2014-02-17 00:00:00;157196;koth_coalplant_b7;2;731;26970;84;29835;102;1;1;0|1;342|389
+39847;Meme Team;8969;Time To Kill;5906;koth_coalplant_b7;2014-02-17 00:00:00;157090;koth_coalplant_b7;5;1945;71962;261;66084;221;3;2;1|0|1|0|0;359|376|442|362|406
+39848;The Silent Riot;5663;Glad Science;6784;koth_coalplant_b7;2014-02-17 00:00:00;157180;koth_coalplant_b7;2;656;21521;78;21629;84;1;1;0|1;312|344
+39848;The Silent Riot;5663;Glad Science;6784;koth_coalplant_b7;2014-02-17 00:00:00;157057;koth_coalplant_b7;5;1771;56561;175;63581;249;2;3;0|1|1|0|1;357|395|321|401|297
+39851;bEnt;3195;36th Infantry;9382;koth_coalplant_b7;2014-02-17 00:00:00;157195;koth_coalplant_b7;2;775;24718;96;27460;102;1;1;0|1;407|368
+39851;bEnt;3195;36th Infantry;9382;koth_coalplant_b7;2014-02-17 00:00:00;157087;koth_coalplant_b7;5;1902;64484;259;59928;216;3;2;1|1|0|0|0;437|414|414|399|238
+39852;Taco Epidemic;7455;Cardiac Arrest;5136;koth_coalplant_b7;2014-02-17 00:00:00;157185;koth_coalplant_b7;2;482;7239;21;11179;40;1;1;1|0;263|219
+39852;Taco Epidemic;7455;Cardiac Arrest;5136;koth_coalplant_b7;2014-02-17 00:00:00;157103;koth_coalplant_b7;4;1394;50558;183;45155;137;3;1;0|0|1|0;349|275|365|405
+39854;Hypersonic Manbabies;8341;TEH ILERMINATY;7479;koth_coalplant_b7;2014-02-17 00:00:00;157200;koth_coalplant_b7;1;303;7822;30;12059;49;0;1;1;303
+39854;Hypersonic Manbabies;8341;TEH ILERMINATY;7479;koth_coalplant_b7;2014-02-17 00:00:00;157144;koth_coalplant_b7;3;1025;30134;83;42061;142;0;3;1|1|1;352|356|317
+39856;No Questions Asked Reunion;9829;After Midnight Booty Call;4985;koth_coalplant_b7;2014-02-17 00:00:00;157065;koth_coalplant_b7;1;400;14023;51;14287;41;1;0;0;400
+39856;No Questions Asked Reunion;9829;After Midnight Booty Call;4985;koth_coalplant_b7;2014-02-17 00:00:00;157019;koth_coalplant_b7;3;841;22078;50;28242;104;0;3;1|1|1;234|272|335
+39859;Corn Ducks;5273;ELKGANG;8311;koth_coalplant_b7;2014-02-17 00:00:00;157145;koth_coalplant_b7;2;617;12708;45;12563;49;1;1;1|0;397|220
+39859;Corn Ducks;5273;ELKGANG;8311;koth_coalplant_b7;2014-02-17 00:00:00;157035;koth_coalplant_b7;5;1917;52429;179;54566;189;2;3;0|1|1|0|1;390|354|381|298|494
+39860;Shylanders;6801;The Experiment;9886;koth_coalplant_b7;2014-02-17 00:00:00;157121;koth_coalplant_b7;1;355;10247;41;13013;52;0;1;1;355
+39860;Shylanders;6801;The Experiment;9886;koth_coalplant_b7;2014-02-17 00:00:00;157061;koth_coalplant_b7;3;790;31379;122;21900;68;3;0;0|0|0;269|281|240
+39861;Ruthless;9601;Semper Fi in Winning;9604;koth_coalplant_b7;2014-02-17 00:00:00;157188;koth_coalplant_b7;3;1385;39286;164;33105;125;3;0;0|0|0;362|392|631
+39861;Ruthless;9601;Semper Fi in Winning;9604;koth_coalplant_b7;2014-02-17 00:00:00;157095;koth_coalplant_b7;4;1519;53746;199;54165;191;3;1;0|0|1|0;333|428|357|401
+39862;XenoGamers;6576;Goodfellas;8861;koth_coalplant_b7;2014-02-17 00:00:00;157133;koth_coalplant_b7;3;1067;18023;81;14875;52;3;0;0|0|0;452|234|381
+39862;XenoGamers;6576;Goodfellas;8861;koth_coalplant_b7;2014-02-17 00:00:00;157046;koth_coalplant_b7;3;1184;35980;121;35944;131;0;3;1|1|1;424|349|411
+39863;roblox dragon ;6304;Magical Dragons of Dustbowl;8572;koth_coalplant_b7;2014-02-17 00:00:00;157222;koth_coalplant_b7;3;1334;19092;68;15283;49;3;0;0|0|0;449|511|374
+39863;roblox dragon ;6304;Magical Dragons of Dustbowl;8572;koth_coalplant_b7;2014-02-17 00:00:00;157177;koth_coalplant_b7;3;967;32237;94;37693;149;0;3;1|1|1;281|267|419
+39864;ABAP Crew;9429;Das Reisig;8883;koth_coalplant_b7;2014-02-17 00:00:00;156378;koth_coalplant_b7;3;1138;17966;60;20993;86;1;2;1|1|0;600|320|218
+39864;ABAP Crew;9429;Das Reisig;8883;koth_coalplant_b7;2014-02-17 00:00:00;156312;koth_coalplant_b7;3;1125;31877;106;39455;154;0;3;1|1|1;398|347|380
+39867;The Demonstration Men;7979;Blame Joe;9831;koth_coalplant_b7;2014-02-17 00:00:00;157217;koth_coalplant_b7;1;416;13870;49;13591;42;1;0;0;416
+39867;The Demonstration Men;7979;Blame Joe;9831;koth_coalplant_b7;2014-02-17 00:00:00;157128;koth_coalplant_b7;4;1414;51994;172;43219;146;3;1;0|0|1|0;311|267|458|378
+39868;SeeThrough;9126;Cancerous Hat Collectors United;6428;koth_coalplant_b7;2014-02-17 00:00:00;157174;koth_coalplant_b6;2;834;31616;111;28543;113;1;1;0|1;424|410
+39868;SeeThrough;9126;Cancerous Hat Collectors United;6428;koth_coalplant_b7;2014-02-17 00:00:00;157118;koth_coalplant_b6;2;749;27550;100;25242;87;1;1;0|1;390|359
+39868;SeeThrough;9126;Cancerous Hat Collectors United;6428;koth_coalplant_b7;2014-02-17 00:00:00;157067;koth_coalplant_b6;2;641;24623;79;24400;85;0;2;1|1;367|274
+39869;fk.coms;8567;Big Beautiful Heavies ;8837;koth_coalplant_b7;2014-02-17 00:00:00;157203;koth_coalplant_b7;2;585;15927;49;14945;61;0;2;1|1;325|260
+39869;fk.coms;8567;Big Beautiful Heavies ;8837;koth_coalplant_b7;2014-02-17 00:00:00;157070;koth_coalplant_b7;4;1344;41795;165;39435;121;3;1;1|0|0|0;459|404|261|220
+39871;The Weilanders;8873;Thorns For Dead;9140;koth_coalplant_b7;2014-02-17 00:00:00;156257;koth_coalplant_b7;3;817;11238;44;10623;46;1;2;1|0|1;226|218|373
+39871;The Weilanders;8873;Thorns For Dead;9140;koth_coalplant_b7;2014-02-17 00:00:00;156240;koth_coalplant_b7;3;710;14638;46;26402;107;0;3;1|1|1;221|240|249
+39872;The Nebular;9187;Vault Force 4;6176;koth_coalplant_b7;2014-02-17 00:00:00;157154;koth_coalplant_b7;2;494;8224;29;12495;45;0;2;1|1;256|238
+39872;The Nebular;9187;Vault Force 4;6176;koth_coalplant_b7;2014-02-17 00:00:00;157055;koth_coalplant_b7;4;1419;40310;136;39991;143;0;4;1|1|1|1;403|396|271|349
+39874;[SS];9733;Mouse's House;6538;koth_coalplant_b7;2014-02-17 00:00:00;157116;koth_coalplant_b7;1;481;11586;43;11837;51;0;1;1;481
+39874;[SS];9733;Mouse's House;6538;koth_coalplant_b7;2014-02-17 00:00:00;157031;koth_coalplant_b7;4;1489;44018;149;51501;201;1;3;0|1|1|1;404|400|419|266
+39876;Birds of War;9576;Aacuna Tuna;9427;koth_coalplant_b7;2014-02-17 00:00:00;157216;koth_coalplant_b7;1;290;10332;38;8309;18;1;0;0;290
+39876;Birds of War;9576;Aacuna Tuna;9427;koth_coalplant_b7;2014-02-17 00:00:00;157101;koth_coalplant_b7;5;2074;51427;167;53033;153;3;2;0|1|0|1|0;767|401|409|221|276
+39877;Medium Rollers Gaming;9492;The Pro-Procrastinators;10149;koth_coalplant_b7;2014-02-17 00:00:00;157158;koth_coalplant_b7;1;294;8299;25;11001;40;0;1;1;294
+39880;Fedora Force;9286;BEATDOWN Brotherhood;8838;koth_coalplant_b7;2014-02-17 00:00:00;157120;koth_coalplant_b7;1;418;13724;51;15128;58;0;1;1;418
+39880;Fedora Force;9286;BEATDOWN Brotherhood;8838;koth_coalplant_b7;2014-02-17 00:00:00;157042;koth_coalplant_b7;4;1384;45396;156;44604;169;3;1;0|1|0|0;372|347|301|364
+39881;TeSPA Transformed;9544;The Blair TF2 Project;8494;koth_coalplant_b7;2014-02-17 00:00:00;157079;koth_coalplant_b7;3;2026;17320;66;16203;64;0;3;1|1|1;415|380|1231
+39881;TeSPA Transformed;9544;The Blair TF2 Project;8494;koth_coalplant_b7;2014-02-17 00:00:00;157023;koth_coalplant_b7;3;882;35249;124;23495;78;3;0;0|0|0;240|300|342
+39883;Prophunters;10045;The Swaggin Sailors;9946;koth_coalplant_b7;2014-02-17 00:00:00;157139;koth_coalplant_b7;2;664;21361;73;20066;67;1;1;1|0;373|291
+39883;Prophunters;10045;The Swaggin Sailors;9946;koth_coalplant_b7;2014-02-17 00:00:00;157075;koth_coalplant_b7;3;910;31065;105;26158;74;3;0;0|0|0;229|313|368
+39886;The Corked Bunch;9461;Money For Bacon;8836;koth_coalplant_b7;2014-02-17 00:00:00;157083;koth_coalplant_b7;3;832;23513;61;29616;115;0;3;1|1|1;230|380|222
+39887;Spinal Tap;9919;BC.GAMING.AD;9915;koth_coalplant_b7;2014-02-17 00:00:00;156941;koth_coalplant_b7;3;808;31745;147;21970;70;3;0;0|0|0;371|218|219
+39887;Spinal Tap;9919;BC.GAMING.AD;9915;koth_coalplant_b7;2014-02-17 00:00:00;156919;koth_coalplant_b7;3;855;21042;65;31635;128;0;3;1|1|1;356|278|221
